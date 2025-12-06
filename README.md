@@ -46,7 +46,7 @@
 
 | 좋아요 (비동기 통신) | 친구 추가/관리 |
 | :---: | :---: |
-| ![좋아요GIF](https://github.com/KwonGreenTea/IotProJect/issues/6#issue-3701348176) | ![친구GIF](https://github.com/KwonGreenTea/IotProJect/issues/5#issue-3701348049) |
+| ![좋아요GIF](https://github.com/user-attachments/assets/868af05c-9de6-41db-a534-73b6c2751a1b) | ![친구GIF](https://github.com/user-attachments/assets/5b2205da-ab18-4737-a288-8f0624aa3c8d) |
 | AJAX로 새로고침 없이 즉시 반영 | 친구 상태(대기/수락/차단) 변경 프로세스 |
 
 <br>
@@ -56,13 +56,13 @@
 
 | 메인(홈) 화면 | 강의평 리스트 | 학점 계산기 |
 | :---: | :---: | :---: |
-| ![홈화면](https://github.com/KwonGreenTea/IotProJect/issues/2#issue-3701338567) | ![강의평](https://github.com/KwonGreenTea/IotProJect/issues/4#issue-3701338769) | ![학점계산](https://github.com/KwonGreenTea/IotProJect/issues/3#issue-3701338689) |
+| ![홈화면](https://github.com/KwonGreenTea/IotProJect/issues/2#issue-3701338567) | ![강의평](https://github.com/user-attachments/assets/29e27755-9427-49a1-b670-80cc63b88086) | ![학점계산](https://github.com/user-attachments/assets/f61accd2-64fc-4c0a-9885-1f80850d99c6) |
 
 <br>
 
 ## 💾 ERD (Entity Relationship Diagram)
 > Oracle DB를 기반으로 관계형 데이터 모델링을 진행했습니다.
-![ERD이미지](https://github.com/KwonGreenTea/IotProJect/issues/1#issue-3701331210)
+![ERD이미지](https://github.com/user-attachments/assets/7a476bbf-f834-4417-859f-6c51966bbda6)
 
 <br>
 
