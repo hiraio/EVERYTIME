@@ -56,7 +56,7 @@
 
 | 메인(홈) 화면 | 강의평 리스트 | 학점 계산기 |
 | :---: | :---: | :---: |
-| ![홈화면](https://github.com/KwonGreenTea/IotProJect/issues/2#issue-3701338567) | ![강의평](https://github.com/user-attachments/assets/29e27755-9427-49a1-b670-80cc63b88086) | ![학점계산](https://github.com/user-attachments/assets/f61accd2-64fc-4c0a-9885-1f80850d99c6) |
+| ![홈화면](https://github.com/user-attachments/assets/d71b219d-5f01-40a2-8888-6a3f441f0a1d) | ![강의평](https://github.com/user-attachments/assets/29e27755-9427-49a1-b670-80cc63b88086) | ![학점계산](https://github.com/user-attachments/assets/f61accd2-64fc-4c0a-9885-1f80850d99c6) |
 
 <br>
 
